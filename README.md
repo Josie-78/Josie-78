@@ -10,10 +10,10 @@ Welcome to my portfolio! Here you can find my projects and details about my expe
 
 ## Download My CV
 
-[![Download My CV](https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
-[Click here to download my CV](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf)
+[![Download My CV]([https://img.shields.io/badge/Download%20My%20CV-blue)](https://github.com/cocoritzy/cocoritzy/blob/main/CV.pd](https://github.com/user-attachments/files/18207419/CV.Coline.Ritz.pdf)f)
+[Click here to download my CV]([https://github.com/cocoritzy/cocoritzy/blob/main/CV.pdf](https://github.com/user-attachments/files/18207419/CV.Coline.Ritz.pdf))
 
-[CV Coline Ritz.pdf](https://github.com/user-attachments/files/18207419/CV.Coline.Ritz.pdf)
+[CV Josiane DJEUMBA.pdf]([https://github.com/user-attachments/files/18207419/CV.Coline.Ritz.pdf](https://github.com/user-attachments/files/18207419/CV.Coline.Ritz.pdf))
 
 <img width="1386" alt="Capture d’écran 2024-11-08 à 16 53 40" src="https://github.com/user-attachments/assets/d91d82f9-8bb1-44a8-ab93-dbe43959c731" />
 
